@@ -39,7 +39,7 @@ Los Objetos creados, QUe ene ste caso son las entidades creadas en la base de da
 Base de  datos Farmacia:
 
 
----Trilogy
+---Trinity
 
 SE usa el modelo vista controlador. gracias al php y html.
 
