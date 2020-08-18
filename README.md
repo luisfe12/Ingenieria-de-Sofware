@@ -6,7 +6,8 @@
   Es una pagina web  con la cua una persona podria tener una cita online con un doctor aparte de comprara medicacmentos
   
   
-#Proposito del Proyectp ⚙️
+#Proposito del Proyect ⚙️
+
 El proposito del proyecto es crear una linea de medicos online que puedan ayudar a pacientes enfermos en todas sus ubicaciones y condiciones para la atencion.
 
 
