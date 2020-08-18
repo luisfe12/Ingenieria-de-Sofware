@@ -46,6 +46,9 @@ Los Objetos creados, QUe ene ste caso son las entidades creadas en la base de da
 
 Base de  datos Farmacia:
 
+Entrar aqui.
+
+https://github.com/luisfe12/Ingenieria-de-Sofware/blob/master/BaseDeDatos.txt
 
 ---#Trinity
 
