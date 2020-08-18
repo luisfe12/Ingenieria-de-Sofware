@@ -34,19 +34,19 @@ Para los php y html se tines estos que guardar en la carpeta htdocs de xammp, pu
 
 #Estilos  ⌨️
 
----Things:
+---#Things:
 
 Los Objetos creados, QUe ene ste caso son las entidades creadas en la base de datos obviamente con postgresql
 
 Base de  datos Farmacia:
 
 
----Trinity
+---#Trinity
 
-SE usa el modelo vista controlador. gracias al php y html.
+------------##SE usa el modelo vista controlador. gracias al php y html.
 
 
------------EL PHP
+------------####EL PHP
 
 	<?php
 	error_reporting(E_ALL);
@@ -87,7 +87,7 @@ SE usa el modelo vista controlador. gracias al php y html.
 	}
 	?>
 
------El html
+-------------####El html
 
 	<!DOCTYPE html>
 
@@ -119,7 +119,7 @@ SE usa el modelo vista controlador. gracias al php y html.
 
 
 
----spreadsheet
+---#spreadsheet
 
 
 Se usa este estila debido a que hay tablas implementadas en el postgresql como lo siguiente ejemplo en doctor 
@@ -140,10 +140,10 @@ Se usa este estila debido a que hay tablas implementadas en el postgresql como l
 
 
 
----------------Uso de DDD
+#Uso de DDD
 
 
-Entidades 
+----------#Entidades 
 
 Las entidades son objetos del modelo que se caracterizan por tener identidad en el sistema.
 Deben poder ser distinguidas de otros objetos aunque tengan los mismos atributos. Tienen que poder ser consideradas iguales a otros objetos aún cuando sus atributos difieren.
@@ -158,7 +158,7 @@ En este caso Usare la tabla personas ya que son sus atributos variads los que lo
 	);
 
 
-Servivies 
+---------#Servivies 
 SERVICIOS 
 
 
@@ -167,7 +167,7 @@ Al contrario que las entidades y los value objects, los servicios son definidos 
 
 Aqui podemos ver como el registrar usario cumple con eso ya que es para el cliente y es una accion
 
-Primero el php
+-------------------------###Primero el php
 
 	<?php
 	error_reporting(E_ALL);
@@ -208,7 +208,7 @@ Primero el php
 	}
 	?>
 
-Ahora el html
+-----------------------###Ahora el html
 
 	<!DOCTYPE html>
 
