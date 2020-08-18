@@ -20,7 +20,9 @@ El proposito del proyecto es crear una linea de medicos online que puedan ayudar
  
 #Practicas de codigo legible 📋
 Comenzando 🚀
-Para iniciar el registro se deben abriri los archivos html donde se regustra todo.
+Para iniciar el registro se deben abriri los archivos html donde se reguistra todo.
+-identacion
+-Variables entendibles
 
 #Pre-requisitos 📋
 Para correr el proyecto necesitaras Postgresql, html y php, en este caso se necesita xammp con el pache encendido.
