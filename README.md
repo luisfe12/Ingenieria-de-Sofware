@@ -19,15 +19,20 @@ El proposito del proyecto es crear una linea de medicos online que puedan ayudar
  
  
 #Practicas de codigo legible 📋
+
 Comenzando 🚀
+
+
 Para iniciar el registro se deben abriri los archivos html donde se reguistra todo.
 -identacion
 -Variables entendibles
 
 #Pre-requisitos 📋
+
 Para correr el proyecto necesitaras Postgresql, html y php, en este caso se necesita xammp con el pache encendido.
 
 #Instalación 🔧
+
 La instalacion es simple con el postgres y el xammp, 
 
 Para los php y html se tines estos que guardar en la carpeta htdocs de xammp, puede ser una carpeta dentro de esa misma ya mencionada antes.
