@@ -163,6 +163,8 @@ SERVICIOS
 Los servicios representan operaciones, acciones o actividades que no pertenecen conceptualmente a ningún objeto.
 Al contrario que las entidades y los value objects, los servicios son definidos en términos de lo que pueden hacer por un cliente, y por tanto tienden a ser nombrados como verbos.
 
+Aqui podemos ver como el registrar usario cumple con eso ya que es para el cliente y es una accion
+
 Primero el php
 
 	<?php
