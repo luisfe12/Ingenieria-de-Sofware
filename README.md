@@ -156,7 +156,8 @@ En este caso Usare la tabla personas ya que son sus atributos variads los que lo
 	);
 
 
-Servivies o SERVICIOS 
+Servivies 
+SERVICIOS 
 Los servicios representan operaciones, acciones o actividades que no pertenecen conceptualmente a ningún objeto.
 Al contrario que las entidades y los value objects, los servicios son definidos en términos de lo que pueden hacer por un cliente, y por tanto tienden a ser nombrados como verbos.
 
